@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import VideoPlayer from './videoPlayer'
+import Screens from './noOfPlayer'
 
 function App() {
   return (
     <div className="App">
-      <VideoPlayer/>
+      <Screens/>
         </div>
   );
 }

@@ -1,0 +1,33 @@
+.video-container {
+  position: relative;
+  height: 10px;
+  width: 100%;
+  background: lightgray;
+}
+
+.buffered-region {
+  position: absolute;
+  height: 100%;
+  border-left: 2px solid black;
+}
+
+.buffered-segment {
+  position: absolute;
+  height: 100%;
+}
+
+.buffered-segment.orange {
+  background: orange;
+}
+
+.buffered-segment.green {
+  background: green;
+}
+
+.vertical-line {
+  position: absolute;
+  top: -15px;
+  width: 2px;
+  height: 15px;
+  background-color: rgb(182, 216, 231);
+}
