@@ -1,8 +1,9 @@
 {
   "name": "assigment_video_player",
-  "author": {"name":"Rajesh Kumar",
-  "email": "rksmech79@gmail.com"
-},
+  "author": {
+    "name": "Rajesh Kumar",
+    "email": "rksmech79@gmail.com"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
