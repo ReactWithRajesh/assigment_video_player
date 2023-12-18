@@ -193,7 +193,7 @@ const VideoPlayer = () => {
         playsInline
         isPlaying
         onError={(err) => console.log(err, 'hls video error')}
-        style={{ width: '100%' }}
+        style={{ width: '100%' ,backgroundColor:'cornflowerblue'}}
       ></video>
       <div
         style={{ position: 'relative', marginTop: '-10px' }}
